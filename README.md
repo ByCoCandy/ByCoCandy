@@ -26,7 +26,7 @@
 + Pocket           ★★★★★    ESP32-C3 emoji pendant · animated GIFs · shake-to-wake · USB-C
 + Orion            ★★★★★    self-hosted AI assistant · reads/writes files · never forgets
 + Axon             ★★★★☆    lightweight MCP server · 27 tools · JSON-RPC 2.0 over TCP
-+ AutomateX        ★★★☆☆    AI-powered Windows automation · two-phase tool-calling · ~90% tokens saved
+~ AutomateX        ★★★☆☆    AI-powered Windows automation · two-phase tool-calling · ~90% tokens saved
 ~ MiNi-Microphone  ★★★☆☆    ultra-compact MEMS mic module · MP34DT05TR-A · PDM output
 ~ Stock-demo       ★★★☆☆    China A-share simulated trading · real-time quotes · T+1
 ```
