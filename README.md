@@ -24,6 +24,7 @@
 
 ```diff
 + Pocket           ★★★★★    ESP32-C3 emoji pendant · animated GIFs · shake-to-wake · USB-C
++ BeaconOps        ★★★★★    ESP32-C3 beacon terminal · MQTT TLS messaging · shake-to-ACK · Vue console
 + Orion            ★★★★★    self-hosted AI assistant · reads/writes files · never forgets
 + Axon             ★★★★☆    lightweight MCP server · 27 tools · JSON-RPC 2.0 over TCP
 ~ AutomateX        ★★★☆☆    AI-powered Windows automation · two-phase tool-calling · ~90% tokens saved
