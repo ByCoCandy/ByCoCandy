@@ -1,7 +1,7 @@
 <div align="center">
   <img src="cocandy.svg" alt="CoCandy" width="680"/>
-  <p><b>Builder of things that think, move, and remember.</b></p>
-  <p><i>AI agents · Open-source hardware · MCP tooling · Python</i></p>
+  <p><b>Builder of ESP32 things.</b></p>
+  <p><i>AI tooling · Open hardware · Full-stack embedded</i></p>
 
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
