@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="CoCandy" width="680"/>
+  <img src="cocandy.svg" alt="CoCandy" width="680"/>
   <p><b>Builder of things that think, move, and remember.</b></p>
   <p><i>AI agents · Open-source hardware · MCP tooling · Python</i></p>
 
