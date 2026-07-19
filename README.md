@@ -1,6 +1,5 @@
 <div align="center">
   <img src="cocandy.svg" alt="CoCandy" width="680"/>
-  <p><b>Builder of ESP32 things.</b></p>
   <p><i>AI tooling · Open hardware · Full-stack embedded</i></p>
 
   <p>
