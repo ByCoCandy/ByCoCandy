@@ -1,6 +1,7 @@
 <div align="center">
   <img src="cocandy.svg" alt="CoCandy" width="680"/>
   <p><i>AI tooling · Open hardware · Full-stack embedded</i></p>
+  <p><a href="https://cocandy.com.cn">访问官网 / Visit our website</a></p>
 
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
