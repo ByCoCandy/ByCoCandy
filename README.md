@@ -35,6 +35,6 @@
 
 ---
 
-<div align="center">
-  <sub>Building things that are just a bit too ambitious.</sub>
-</div>
+## ✦ Support
+**If you find these useful, please give me a Star**
+(It costs you nothing but means the world to me!)
