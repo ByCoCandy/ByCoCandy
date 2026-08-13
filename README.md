@@ -30,7 +30,7 @@
 ## ✦ Recommend
 
 <p align="center">
-  <img src="assets/recommend-card.svg" alt="Recommend" width="80%"/>
+  <img src="assets/recommend-card.svg" alt="Recommend" width="90%"/>
   <br/>
 </p>
 
