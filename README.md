@@ -20,8 +20,8 @@
     <img src="assets/fullstack-badge.svg" alt="Full-stack embedded" height="30"/>
   </p>
   <p>
-    <a href="https://cocandy.com.cn"><img src="assets/website-badge.svg?v=2" alt="官方网站 · Website" height="30"/></a>
-    <a href="mailto:1l0m0l1.tp@gmail.com"><img src="assets/email-badge.svg?v=2" alt="1l0m0l1.tp@gmail.com" height="30"/></a>
+    <a href="https://cocandy.com.cn"><img src="assets/website-badge-purple.svg" alt="官方网站 · Website" height="30"/></a>
+    <a href="mailto:1l0m0l1.tp@gmail.com"><img src="assets/email-badge-purple.svg" alt="1l0m0l1.tp@gmail.com" height="30"/></a>
   </p>
   <p align="center">
     <img src="https://count.getloli.com/@bycocandy?name=bycocandy&theme=moebooru&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" height="150"/>
