@@ -2,7 +2,7 @@
   <img src="cocandy.svg" alt="CoCandy" width="680"/>
   <p><i>AI tooling · Open hardware · Full-stack embedded</i></p>
   <p><a href="https://cocandy.com.cn">访问官网 / Visit our website</a></p>
-  <p>![Profile Views](https://komarev.com/ghpvc/?username=ByCoCandy&label=Profile%20views&color=0e75b6&style=flat)</p>
+  <p><img src="https://visitor-badge.laobi.icu/badge?page_id=bycocandy&left_text=Profile%20views&logo=github" alt="visitor badge"/></p>
 
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
