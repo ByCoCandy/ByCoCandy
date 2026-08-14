@@ -26,16 +26,7 @@
   <p align="center">
     <img src="https://count.getloli.com/@bycocandy?name=bycocandy&theme=moebooru&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" height="150"/>
   </p>
-
-## ✦ Recommend
-
-<p align="center">
-  <img src="assets/recommend-card.svg" alt="Recommend" width="80%"/>
-  <br/>
-</p>
-
-## ✦ Support
-
+</div>
 <p align="center">
   <img src="assets/give-a-star-badge.svg" alt="Give a Star" height="60"/>
 </p>
