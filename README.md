@@ -28,10 +28,6 @@
   </p>
 </div>
 
-<p align="center">
-  <img src="assets/give-a-star-badge.svg" alt="Give a Star" height="60"/>
-</p>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/garden-footer-night.svg" />
